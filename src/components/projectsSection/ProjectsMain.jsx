@@ -15,14 +15,14 @@ const projects = [
     name: "Game Listing App",
     year: "Sep 2024",
     align: "left",
-    image: "../../publicwebsite-img-2.webp",
+    image: "../../images/website-img-2.webp",
     link: "https://game-listing-4hhhc49vj-rudra-kapoors-projects.vercel.app/",
   },
   {
     name: "News-Portal Website",
     year: "Jan2023",
     align: "right",
-    image: "../../publicwebsite-img-3.jpg",
+    image: "../../images/website-img-3.jpg",
     link: "https://news-website-1-0wd2.onrender.com/",
   },
 
